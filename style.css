@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0px;
+}
+body{
+  width: 100vw;
+  height: 100vh;
+}
+h1 {
+  font-family: 'Bungee Outline', cursive;
+  /* color: #F56416; */
+  font-size: 82px;
+  z-index: 10;
+  position: absolute;
+  /* flex:1 0 100%;
+  width: 100%;
+
+  top: 45%;
+  transform: translate(-50%, -50%) */
+}
+
+div.main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* text-align: center; */
+}
+canvas {
+  background: #f4f4f4;
+}
