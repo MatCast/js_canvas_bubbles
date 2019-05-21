@@ -24,7 +24,7 @@ div.main {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* text-align: center; */
+  text-align: center;
 }
 canvas {
   background: #f4f4f4;
